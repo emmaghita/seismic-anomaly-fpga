@@ -1,0 +1,6 @@
+seismic-env/
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.hdf5
