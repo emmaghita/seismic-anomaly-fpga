@@ -3,4 +3,4 @@ data/
 __pycache__/
 .ipynb_checkpoints/
 *.h5
-*.hdf5
+*.hdf5gi
